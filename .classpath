@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/emoji-java-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/yogi/Documents/workspace/TwitterTrend/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

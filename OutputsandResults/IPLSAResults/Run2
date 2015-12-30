@@ -1,0 +1,309 @@
+Topic index: 1
+#job
+#hiring
+ma
+#boston
+#careerarc
+#jobs
+latest
+opening
+work
+click
+
+Topic index: 2
+thanksgiving
+good
+happy
+house
+got
+make
+turkey
+great
+wait
+dinner
+
+Topic index: 3
+thanksgiving
+thankful
+happy
+love
+family
+thanks
+people
+today
+friends
+life
+
+Topic index: 4
+dog
+show
+hate
+haha
+dad
+think
+national
+boston
+people
+thanksgiving
+
+((((((( Cluster popular is 3,4,2)))))))
+*********************Iteration 2 started*********************
+done
+Topic index: 1
+work
+#hiring
+ma
+#job
+#boston
+latest
+opening
+#jobs
+food
+p
+
+Topic index: 2
+good
+got
+thanksgiving
+meat
+don
+table
+football
+game
+murray
+shit
+
+Topic index: 3
+thankful
+thanksgiving
+happy
+family
+thanks
+dad
+life
+friends
+people
+love
+
+Topic index: 4
+#phivsdet
+mom
+ass
+best
+4
+explain
+hair
+trying
+friend
+car
+
+((((((( Cluster popular is 3,4,2)))))))
+*********************Iteration 2 completed*********************
+*********************Iteration 3 started*********************
+done
+Topic index: 1
+ma
+#job
+#hiring
+#boston
+#jobs
+team
+latest
+opening
+massachusetts
+p
+
+Topic index: 2
+game
+good
+wait
+wish
+english
+drunk
+actually
+hours
+man
+super
+
+Topic index: 3
+thanksgiving
+happy
+thankful
+love
+friends
+family
+gobble
+food
+today
+congrats
+
+Topic index: 4
+lol
+going
+thanks
+way
+#thanksgiving
+give
+turkey
+thing
+16
+gotta
+
+((((((( Cluster popular is 3,1,2)))))))
+*********************Iteration 3 completed*********************
+*********************Iteration 4 started*********************
+done
+Topic index: 1
+#job
+#hiring
+ma
+great
+right
+#careerarc
+#boston
+fit
+opening
+latest
+
+Topic index: 2
+time
+2
+near
+got
+football
+hard
+today
+paleo
+made
+wait
+
+Topic index: 3
+thanksgiving
+happy
+thankful
+love
+family
+friends
+did
+east
+today
+7
+
+Topic index: 4
+turkey
+don
+show
+thing
+lol
+people
+make
+dog
+know
+trying
+
+((((((( Cluster popular is 3,4,1)))))))
+*********************Iteration 4 completed*********************
+*********************Iteration 5 started*********************
+done
+Topic index: 1
+ma
+#job
+work
+#hiring
+#jobs
+drinking
+#boston
+great
+right
+p
+
+Topic index: 2
+good
+today
+2
+face
+time
+enjoy
+high
+man
+actually
+defense
+
+Topic index: 3
+thanksgiving
+happy
+thankful
+love
+birthday
+#happythanksgiving
+hope
+thank
+today
+things
+
+Topic index: 4
+people
+don
+dog
+turkey
+best
+girl
+thanks
+make
+end
+call
+
+((((((( Cluster popular is 3,1,4)))))))
+*********************Iteration 5 completed*********************
+*********************Iteration 6 started*********************
+done
+Topic index: 1
+#job
+boston
+#hiring
+ma
+#boston
+latest
+guy
+massachusetts
+opening
+click
+
+Topic index: 2
+good
+
+football
+shit
+got
+english
+game
+long
+broke
+powderpuff
+
+Topic index: 3
+thankful
+thanksgiving
+happy
+family
+life
+friends
+#happythanksgiving
+love
+did
+new
+
+Topic index: 4
+don
+turkey
+watching
+#thankful
+#thanksgiving
+dog
+time
+blessed
+win
+#dogthanking
+
+((((((( Cluster popular is 3,2,1)))))))
+*********************Iteration 6 completed*********************

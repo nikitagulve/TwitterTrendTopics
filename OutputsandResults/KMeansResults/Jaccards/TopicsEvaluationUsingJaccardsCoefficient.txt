@@ -1,0 +1,815 @@
+==============================================================================================================================
+Total Clusters : 3
+
+Purity : 0.6199494949494949
+NMI : 0.25459459250180294
+No. Of Tweets Clustered : 792
+
+Cluster : 1
+Total tweets in this cluster : 112
+
+[{tweetId:1, tweet:buy pink christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:4, tweet:a2 #christmas markets hustle bustle #rotterdam #cruisechat, groundTruth:1, assignedCluster:1}
+, {tweetId:6, tweet:artificial #christmas #tree holiday time clear #lights pre lit stand indoor pine, groundTruth:1, assignedCluster:1}
+, {tweetId:15, tweet:#safety hoverboards, groundTruth:1, assignedCluster:1}
+, {tweetId:17, tweet:game thrones themed charm bracelet #gameofthrones #christmas #geekhour, groundTruth:1, assignedCluster:1}
+, {tweetId:20, tweet:mean looks close fully realizing style established earlier games fantastic, groundTruth:1, assignedCluster:1}
+, {tweetId:55, tweet:#christmas list, groundTruth:1, assignedCluster:1}
+, {tweetId:57, tweet:buy pink christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:58, tweet:coat tho, groundTruth:1, assignedCluster:1}
+, {tweetId:66, tweet:super, groundTruth:1, assignedCluster:1}
+, {tweetId:68, tweet:win hamper goodies worth 100 fill #christmas positivenergy enter, groundTruth:1, assignedCluster:1}
+, {tweetId:80, tweet:top tips #christmas activity organisers make feel welcome #beafrien, groundTruth:1, assignedCluster:1}
+, {tweetId:103, tweet:cold hard cash, groundTruth:1, assignedCluster:1}
+, {tweetId:111, tweet:promo code checkout 10 orders shop, groundTruth:1, assignedCluster:1}
+, {tweetId:116, tweet:britons spend nation #christmas gifts, groundTruth:1, assignedCluster:1}
+, {tweetId:120, tweet:buy pink christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:124, tweet:merry scary #christmas #scifi #horror #ian1 #bookboost #asmsg #pdf1 htt, groundTruth:1, assignedCluster:1}
+, {tweetId:145, tweet:granary foodstore add big dash port homemade cranberry sauce #christmas #midleton, groundTruth:1, assignedCluster:1}
+, {tweetId:151, tweet:#sale perfect #gift #cheese lover #christmas #hamper #sbs, groundTruth:1, assignedCluster:1}
+, {tweetId:171, tweet:17 days til #christmas got #treat amazing, groundTruth:1, assignedCluster:1}
+, {tweetId:175, tweet:buy pink christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:181, tweet:got tickets #christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:183, tweet:#christmas events girls events having return bookings #bookfor2016, groundTruth:1, assignedCluster:1}
+, {tweetId:193, tweet:don forget #webinar starts hour brilliant talking #alcohol free #christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:214, tweet:hard believe time went past waaaay quick, groundTruth:1, assignedCluster:1}
+, {tweetId:227, tweet:booked 11 tickets monday 21st wait #mybigfatbelfastchristmas #christmas #festive #theatre, groundTruth:1, assignedCluster:1}
+, {tweetId:228, tweet:grab #shaving gift box special #christmas gift today, groundTruth:1, assignedCluster:1}
+, {tweetId:241, tweet:flw chance winning #christmas hamper comp ends midnight thursday 10 december #winit, groundTruth:1, assignedCluster:1}
+, {tweetId:242, tweet:flw chance winning #christmas hamper comp ends midnight thursday 10 december #winit, groundTruth:1, assignedCluster:1}
+, {tweetId:246, tweet:sam natasha made marriage pact, groundTruth:1, assignedCluster:1}
+, {tweetId:249, tweet:flw chance winning #christmas hamper comp ends midnight thursday 10 december #winit, groundTruth:1, assignedCluster:1}
+, {tweetId:251, tweet:beginning look lot #christmas office, groundTruth:1, assignedCluster:1}
+, {tweetId:252, tweet:#win mystery #xmas eve #hamper simply following rting post friends #christmas #rt wigan ht, groundTruth:1, assignedCluster:1}
+, {tweetId:256, tweet:#christmas concert #roscrea st cronans church #tipperary sat 8pm tics, groundTruth:1, assignedCluster:1}
+, {tweetId:260, tweet:paul mccartney simply having wonderful christmastime, groundTruth:1, assignedCluster:1}
+, {tweetId:270, tweet:terry lundgren betrayerwe expanding #boycottmacys movement 4 #christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:280, tweet:feeling creative check 39 #diy #christmas stockings fill handmade treats, groundTruth:1, assignedCluster:1}
+, {tweetId:288, tweet:enter code xmasride 25 electric bikes electric scooters #shipfree #christmas, groundTruth:1, assignedCluster:1}
+, {tweetId:301, tweet:hockey fans check cool video idea, groundTruth:2, assignedCluster:1}
+, {tweetId:305, tweet:#sports #deals #nike air jordan #retro 11 xi gamma blue size 9 #shoes, groundTruth:2, assignedCluster:1}
+, {tweetId:306, tweet:brian clough unqiue character forget #football #soccer #sports, groundTruth:2, assignedCluster:1}
+, {tweetId:310, tweet:falcons check latest falcons update, groundTruth:2, assignedCluster:1}
+, {tweetId:311, tweet:10 reasons ace pitcher zack greinke return arizona diamondbacks glory #baseball #sports #relationships, groundTruth:2, assignedCluster:1}
+, {tweetId:322, tweet:#sports #angels #losangeles angels mike trout december bobble head month nib 10 #memorabilia #sale, groundTruth:2, assignedCluster:1}
+, {tweetId:323, tweet:#nba #sports nba power rankings movement top warriors firmly, groundTruth:2, assignedCluster:1}
+, {tweetId:324, tweet:#sports 201516 nazem kadri artifacts jersey patch toronto maple leafs #tfw, groundTruth:2, assignedCluster:1}
+, {tweetId:330, tweet:googletrenderer mets syndergaard signs picture meet 60 6 away #news #sports, groundTruth:2, assignedCluster:1}
+, {tweetId:335, tweet:taggart todd stewart gary ransdell wood selig jared clendenin jack doyle #wku impact, groundTruth:2, assignedCluster:1}
+, {tweetId:339, tweet:drug busts thefts december 8 2015 trentonian police blotter #sports, groundTruth:2, assignedCluster:1}
+, {tweetId:346, tweet:bill belichick legendary quote converting 4th #sports #sportsnews, groundTruth:2, assignedCluster:1}
+, {tweetId:347, tweet:ronda rousey ill retire lose rematch holly holm #sports #sportsnews, groundTruth:2, assignedCluster:1}
+, {tweetId:351, tweet:lesean mccoy calling chip kelly racist angry stand #sports #sportsnews, groundTruth:2, assignedCluster:1}
+, {tweetId:352, tweet:report nba owners lobbied league sixers hire jerry colangelo #sports #sportsnews, groundTruth:2, assignedCluster:1}
+, {tweetId:353, tweet:nfl 14 preview w, groundTruth:2, assignedCluster:1}
+, {tweetId:354, tweet:final #njcaa football rankings #1 #2 full top 20, groundTruth:2, assignedCluster:1}
+, {tweetId:355, tweet:#sports high profile clash came 20 years later final fa cup 12 1979, groundTruth:2, assignedCluster:1}
+, {tweetId:356, tweet:packers promotional cups land vikings country, groundTruth:2, assignedCluster:1}
+, {tweetId:357, tweet:#sports arsenal appointed herbert chapman manager 1925, groundTruth:2, assignedCluster:1}
+, {tweetId:366, tweet:jokpeme mets syndergaard signs picture meet 60 6 away #news #sports, groundTruth:2, assignedCluster:1}
+, {tweetId:368, tweet:varsity insider player yup, groundTruth:2, assignedCluster:1}
+, {tweetId:378, tweet:news gardner grown lot talent, groundTruth:2, assignedCluster:1}
+, {tweetId:380, tweet:brilliant, groundTruth:2, assignedCluster:1}
+, {tweetId:383, tweet:oh topic reasons jealous weren miami, groundTruth:2, assignedCluster:1}
+, {tweetId:386, tweet:nfl 14 preview w, groundTruth:2, assignedCluster:1}
+, {tweetId:387, tweet:bill snyder leaning returning #kstate sideline season, groundTruth:2, assignedCluster:1}
+, {tweetId:401, tweet:lesean mccoy isn angry anymore talks kelly murray eagles talks mccoy, groundTruth:2, assignedCluster:1}
+, {tweetId:407, tweet:paul george unstoppable stephen curry thisseason, groundTruth:2, assignedCluster:1}
+, {tweetId:409, tweet:dez bryant loathes fiery competitor actually play hard game, groundTruth:2, assignedCluster:1}
+, {tweetId:410, tweet:playing game seminar, groundTruth:2, assignedCluster:1}
+, {tweetId:420, tweet:#belmont nh #healthcare #job manager program neurorestorative mentor network #jobs #hiring #careerarc, groundTruth:2, assignedCluster:1}
+, {tweetId:426, tweet:til george blanda threw insane amount 42 interceptions 1962 #sports, groundTruth:2, assignedCluster:1}
+, {tweetId:427, tweet:pack check latest packers update, groundTruth:2, assignedCluster:1}
+, {tweetId:439, tweet:officially sellout, groundTruth:2, assignedCluster:1}
+, {tweetId:443, tweet:recapture post, groundTruth:2, assignedCluster:1}
+, {tweetId:450, tweet:disqualify presidential election guy meant isn qualified hold position obviously, groundTruth:2, assignedCluster:1}
+, {tweetId:462, tweet:raw roman reigns sheamus chairmen bored, groundTruth:2, assignedCluster:1}
+, {tweetId:465, tweet:pres s gulati series mistakes involving game screwed wont happen, groundTruth:2, assignedCluster:1}
+, {tweetId:468, tweet:officially sellout, groundTruth:2, assignedCluster:1}
+, {tweetId:470, tweet:nfl 14 preview w, groundTruth:2, assignedCluster:1}
+, {tweetId:471, tweet:city org picks tab isn provincial federal services whitehead says, groundTruth:2, assignedCluster:1}
+, {tweetId:484, tweet:michigan teams playing rutgers covered, groundTruth:2, assignedCluster:1}
+, {tweetId:487, tweet:arsenal victory biggest community shield 16 years #sports, groundTruth:2, assignedCluster:1}
+, {tweetId:491, tweet:extremely sick, groundTruth:2, assignedCluster:1}
+, {tweetId:493, tweet:#sports arsenal henry made name worldclass player, groundTruth:2, assignedCluster:1}
+, {tweetId:505, tweet:nfl 14 preview w, groundTruth:2, assignedCluster:1}
+, {tweetId:509, tweet:perfect cufflink gift #cyclist #cycling #sports #recreation #travel, groundTruth:2, assignedCluster:1}
+, {tweetId:515, tweet:ceramics lmaoo, groundTruth:2, assignedCluster:1}
+, {tweetId:528, tweet:facebook twitter forced report terrorist activity proposed bill, groundTruth:3, assignedCluster:1}
+, {tweetId:536, tweet:high, groundTruth:3, assignedCluster:1}
+, {tweetId:555, tweet:studying forget eat, groundTruth:3, assignedCluster:1}
+, {tweetId:557, tweet:gillian hendry director housing homelessness says gs got 230k bc budget surplus isn, groundTruth:3, assignedCluster:1}
+, {tweetId:560, tweet:creds, groundTruth:3, assignedCluster:1}
+, {tweetId:566, tweet:collapse medical services terroristcontrolled territory syria, groundTruth:3, assignedCluster:1}
+, {tweetId:571, tweet:attention, groundTruth:3, assignedCluster:1}
+, {tweetId:572, tweet:good ass italian food tonight black twitter class isn black twitter fucking shit, groundTruth:3, assignedCluster:1}
+, {tweetId:575, tweet:9 tips making sex top feel easier computer class good 5 mins idea, groundTruth:3, assignedCluster:1}
+, {tweetId:601, tweet:wine count fluids cold keep drinking #wishfulthinking #winelover, groundTruth:3, assignedCluster:1}
+, {tweetId:604, tweet:got, groundTruth:3, assignedCluster:1}
+, {tweetId:644, tweet:#cubs kicking tires freeagent outfielder jason heyward, groundTruth:3, assignedCluster:1}
+, {tweetId:646, tweet:yeah angry sure angry, groundTruth:3, assignedCluster:1}
+, {tweetId:671, tweet:liberal la times agrees method flawed achieve desirable ends, groundTruth:3, assignedCluster:1}
+, {tweetId:692, tweet:harassment isn free speech abuse libelous behavior name stealing violates tos needs end, groundTruth:3, assignedCluster:1}
+, {tweetId:702, tweet:fill craig david two, groundTruth:3, assignedCluster:1}
+, {tweetId:705, tweet:think brownie made, groundTruth:3, assignedCluster:1}
+, {tweetId:713, tweet:#hiring read latest #job opening senior relationship manager, groundTruth:3, assignedCluster:1}
+, {tweetId:724, tweet:230k usual 200k city gives g shepherd hendry says comes part bc fewer donations, groundTruth:3, assignedCluster:1}
+, {tweetId:736, tweet:made feel betrayed won feel way, groundTruth:3, assignedCluster:1}
+, {tweetId:761, tweet:yoooooo buisness usualpuhahaha nahhhh lmaooooo howi got mirror killal m oreallly bro cuf invisible family, groundTruth:3, assignedCluster:1}
+, {tweetId:775, tweet:foreigner meaning stateless citizenship tragic, groundTruth:3, assignedCluster:1}
+, {tweetId:776, tweet:join citizens financial group team latest #banking #job opening #cfgjobs #boston ma #hiring, groundTruth:3, assignedCluster:1}
+, {tweetId:779, tweet:steve wished, groundTruth:3, assignedCluster:1}
+, {tweetId:788, tweet:liberal agrees #noflylist reason take rights away due process #ny22, groundTruth:3, assignedCluster:1}
+]
+
+Cluster : 2
+Total tweets in this cluster : 419
+
+[{tweetId:2, tweet:love christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:5, tweet:christmas prescription ready, groundTruth:1, assignedCluster:2}
+, {tweetId:7, tweet:17 days christmas haven gotten gifts, groundTruth:1, assignedCluster:2}
+, {tweetId:8, tweet:ready christmas take finals, groundTruth:1, assignedCluster:2}
+, {tweetId:9, tweet:president given credit sending official christmas card white house find, groundTruth:1, assignedCluster:2}
+, {tweetId:11, tweet:hii moonlight christmas coming christmas follow please love x301, groundTruth:1, assignedCluster:2}
+, {tweetId:12, tweet:presidential candidates selling ugly christmas sweaters incite family arguments #, groundTruth:1, assignedCluster:2}
+, {tweetId:13, tweet:brings people corporate america christmas potluck, groundTruth:1, assignedCluster:2}
+, {tweetId:14, tweet:make smile christmas #etsymntt #handmade #xmasstockings, groundTruth:1, assignedCluster:2}
+, {tweetId:16, tweet:spoil enjoy erotic christmas story, groundTruth:1, assignedCluster:2}
+, {tweetId:18, tweet:18 beers til christmas true cracker #beeroclock #xmas, groundTruth:1, assignedCluster:2}
+, {tweetId:21, tweet:hey niall 17 days christmas best present world follow love 992, groundTruth:1, assignedCluster:2}
+, {tweetId:22, tweet:christmas mid november love, groundTruth:1, assignedCluster:2}
+, {tweetId:24, tweet:win 150 #christmas shopping christmas books #giveaway #christian #books, groundTruth:1, assignedCluster:2}
+, {tweetId:25, tweet:christmas happiness health peace follow harry styles, groundTruth:1, assignedCluster:2}
+, {tweetId:27, tweet:don travel christmas yuupuul practical storage bag fun kids view range, groundTruth:1, assignedCluster:2}
+, {tweetId:28, tweet:look dumbass looking christmas trees cause eyes crossed, groundTruth:1, assignedCluster:2}
+, {tweetId:29, tweet:hiii 17 days christmas mind following make special please 27048, groundTruth:1, assignedCluster:2}
+, {tweetId:30, tweet:time bring mariah carey christmas cd yall hate christmas music, groundTruth:1, assignedCluster:2}
+, {tweetId:31, tweet:steamy calendar vet students animals christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:32, tweet:tone gold watch christmas add swagor black, groundTruth:1, assignedCluster:2}
+, {tweetId:34, tweet:forget church lets worship altar christmas tv joanna moorhead bishop nick baines s, groundTruth:1, assignedCluster:2}
+, {tweetId:35, tweet:christmas tree nail art step step tutorial, groundTruth:1, assignedCluster:2}
+, {tweetId:37, tweet:b powell unique #christmasgifts #localauthors top named authors order recv bf christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:38, tweet:christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:39, tweet:christmas soon hope enjoy wishes come true mine follow please harry love you116847, groundTruth:1, assignedCluster:2}
+, {tweetId:40, tweet:practising send #surprisedselfie win ghd prizes christmas #hintghd, groundTruth:1, assignedCluster:2}
+, {tweetId:41, tweet:outrageous christmas jumpers shops probably sacked wearing, groundTruth:1, assignedCluster:2}
+, {tweetId:42, tweet:christmas break, groundTruth:1, assignedCluster:2}
+, {tweetId:44, tweet:cool giveaway called entered christmas shopping giveaway blog hop emerald earrings, groundTruth:1, assignedCluster:2}
+, {tweetId:45, tweet:christmas time won actually hit finals, groundTruth:1, assignedCluster:2}
+, {tweetId:46, tweet:steamy calendar vet students animals christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:47, tweet:christmas outfit inspiration available jolaby boutique 3, groundTruth:1, assignedCluster:2}
+, {tweetId:49, tweet:talk christmas special #whitehotholidays, groundTruth:1, assignedCluster:2}
+, {tweetId:51, tweet:asks christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:52, tweet:pictures real life christmas dinner hogwarts prepare fomo, groundTruth:1, assignedCluster:2}
+, {tweetId:53, tweet:visitors friday christmas candlelight shared wonderful picture group caroling, groundTruth:1, assignedCluster:2}
+, {tweetId:54, tweet:christmas thing support grinch punk goes xmas big sweaters peppermint grumpiness part personality, groundTruth:1, assignedCluster:2}
+, {tweetId:56, tweet:christmas #sadlynocherry, groundTruth:1, assignedCluster:2}
+, {tweetId:59, tweet:2 weeks christmas celebration join 20 december west road concert hall 1030am, groundTruth:1, assignedCluster:2}
+, {tweetId:60, tweet:man creche opens carmarthen christmas shopping period, groundTruth:1, assignedCluster:2}
+, {tweetId:61, tweet:christmas list blue neighborhood cd amazing book fire 100000 twenty pilot c, groundTruth:1, assignedCluster:2}
+, {tweetId:62, tweet:christmas rice treats yes please #minutemeals ad minutericeus, groundTruth:1, assignedCluster:2}
+, {tweetId:63, tweet:baby christmas youuuuuuu, groundTruth:1, assignedCluster:2}
+, {tweetId:65, tweet:yoo 100 retweets christmas skin pls, groundTruth:1, assignedCluster:2}
+, {tweetId:67, tweet:coworkers know dislike christmas wrote special message, groundTruth:1, assignedCluster:2}
+, {tweetId:70, tweet:girl severe burns asks christmas cards special girl, groundTruth:1, assignedCluster:2}
+, {tweetId:71, tweet:remembered dancing christmas music fiddlers sunday, groundTruth:1, assignedCluster:2}
+, {tweetId:72, tweet:christmas break come fast, groundTruth:1, assignedCluster:2}
+, {tweetId:73, tweet:baby christmas youuuuuuu, groundTruth:1, assignedCluster:2}
+, {tweetId:75, tweet:happy christmas drug money, groundTruth:1, assignedCluster:2}
+, {tweetId:76, tweet:yes deep heart christmas friday shipshewana fabulous, groundTruth:1, assignedCluster:2}
+, {tweetId:77, tweet:help kids happy christmas donate toy drive, groundTruth:1, assignedCluster:2}
+, {tweetId:78, tweet:christmas park set saturday christmas park wild side, groundTruth:1, assignedCluster:2}
+, {tweetId:79, tweet:looking alternative christmas plans celebrate oaxacas night radishes, groundTruth:1, assignedCluster:2}
+, {tweetId:81, tweet:man utd fans decorate christmas tree, groundTruth:1, assignedCluster:2}
+, {tweetId:82, tweet:hii moonlight christmas coming christmas follow please love x302, groundTruth:1, assignedCluster:2}
+, {tweetId:83, tweet:ho ho ho christmas tickets added don miss 11 days, groundTruth:1, assignedCluster:2}
+, {tweetId:84, tweet:duchess returns anna freud centre 15 december family school christmas party, groundTruth:1, assignedCluster:2}
+, {tweetId:85, tweet:call christmas scone thats gone missing stollen, groundTruth:1, assignedCluster:2}
+, {tweetId:86, tweet:final grades christmas eve happy holidays actually did lot thought, groundTruth:1, assignedCluster:2}
+, {tweetId:88, tweet:work mode sooo excited awaited christmas break #christmaswiththefamily #reunions, groundTruth:1, assignedCluster:2}
+, {tweetId:90, tweet:keep local christmas 15 unique local shops #yyc pls, groundTruth:1, assignedCluster:2}
+, {tweetId:91, tweet:puts selfie top christmas tree star, groundTruth:1, assignedCluster:2}
+, {tweetId:92, tweet:time christmas cocktail bring slojito #xmashour, groundTruth:1, assignedCluster:2}
+, {tweetId:93, tweet:nba christmas schedule features five games highlighted cavswarriors finals rematch santa stoked, groundTruth:1, assignedCluster:2}
+, {tweetId:94, tweet:roommates gonna rims christmas cb radio talk car beds, groundTruth:1, assignedCluster:2}
+, {tweetId:95, tweet:plans tonight studying watching #vsfashionshow guzzling wine adding abs christmas list, groundTruth:1, assignedCluster:2}
+, {tweetId:96, tweet:eu nysira christmas craziness road 30k followers, groundTruth:1, assignedCluster:2}
+, {tweetId:97, tweet:reality christmas sales creeping earlier earlier intimidating #socialmedia, groundTruth:1, assignedCluster:2}
+, {tweetId:98, tweet:hey niall 17 days christmas best present world follow love 993, groundTruth:1, assignedCluster:2}
+, {tweetId:100, tweet:devizes chamber choir christmas dinner crown devizes wiltshire, groundTruth:1, assignedCluster:2}
+, {tweetId:101, tweet:celebrate christmas hogwarts, groundTruth:1, assignedCluster:2}
+, {tweetId:102, tweet:love jessica chastain giving charity pls help fan project donate, groundTruth:1, assignedCluster:2}
+, {tweetId:104, tweet:new ringtone perfect xmas time goopy ghost christmas #carloswilde, groundTruth:1, assignedCluster:2}
+, {tweetId:105, tweet:theme de pere christmas sweaters, groundTruth:1, assignedCluster:2}
+, {tweetId:106, tweet:dropping song christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:107, tweet:check new christmas design snow, groundTruth:1, assignedCluster:2}
+, {tweetId:108, tweet:dyk christmas trees home grown north american soil jobs rural areas buying #freshcuthomegrown supp, groundTruth:1, assignedCluster:2}
+, {tweetId:109, tweet:pathetic new jersey #sjw quits unquits, groundTruth:1, assignedCluster:2}
+, {tweetId:110, tweet:grumpy cat christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:112, tweet:excited christmas break read books actually wanna read reading book homework lol, groundTruth:1, assignedCluster:2}
+, {tweetId:113, tweet:urbansoul merchandize hit stores christmas giftguide #itsgivingseason, groundTruth:1, assignedCluster:2}
+, {tweetId:114, tweet:take magical journey mary poppins christmas great deals kid classics h, groundTruth:1, assignedCluster:2}
+, {tweetId:115, tweet:copper christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:117, tweet:model s delivering christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:118, tweet:good wishing merry christmas fire truck christmas parade, groundTruth:1, assignedCluster:2}
+, {tweetId:119, tweet:pepper goes freya christmas party fabulous, groundTruth:1, assignedCluster:2}
+, {tweetId:121, tweet:got ya covered dm name 2 tix mg passes ya #merrychristmas, groundTruth:1, assignedCluster:2}
+, {tweetId:122, tweet:president john f kennedy celebrates christmas family palm beach florida 1962, groundTruth:1, assignedCluster:2}
+, {tweetId:123, tweet:miney christmas tree #catsofinstagram #christmastree #mycat #christmaskitty #christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:125, tweet:collectively rattle cage people money cage come bc broke says, groundTruth:1, assignedCluster:2}
+, {tweetId:126, tweet:asks working christmas eve, groundTruth:1, assignedCluster:2}
+, {tweetId:127, tweet:hey yall don forget bring bears tomorrow games 530 730 give kid christmas #gogulls, groundTruth:1, assignedCluster:2}
+, {tweetId:128, tweet:christmas season tell customers value show customer appreciation #customer #christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:129, tweet:christmas list timeline, groundTruth:1, assignedCluster:2}
+, {tweetId:130, tweet:timely reminder christmas festivities beginning getting home #dontdrinkanddrive #moretocome, groundTruth:1, assignedCluster:2}
+, {tweetId:131, tweet:christmas coming #lilylunapotter, groundTruth:1, assignedCluster:2}
+, {tweetId:132, tweet:bae gon booty big red bow christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:133, tweet:christmas presents ordered start coming open, groundTruth:1, assignedCluster:2}
+, {tweetId:134, tweet:decided christmas ticket perform please thank advance, groundTruth:1, assignedCluster:2}
+, {tweetId:135, tweet:wants buy christmas middle, groundTruth:1, assignedCluster:2}
+, {tweetId:136, tweet:hello apple watch, groundTruth:1, assignedCluster:2}
+, {tweetId:137, tweet:christmas soon hope enjoy wishes come true mine follow please harry love you116848, groundTruth:1, assignedCluster:2}
+, {tweetId:138, tweet:ready christmas take finals, groundTruth:1, assignedCluster:2}
+, {tweetId:139, tweet:spoil friends family christmas 4 dollars, groundTruth:1, assignedCluster:2}
+, {tweetId:140, tweet:christmas giveaway, groundTruth:1, assignedCluster:2}
+, {tweetId:141, tweet:christmas song, groundTruth:1, assignedCluster:2}
+, {tweetId:142, tweet:special celebrity jeremy kyle show christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:143, tweet:start christmas shopping broke, groundTruth:1, assignedCluster:2}
+, {tweetId:144, tweet:adam christmas holiday show 4, groundTruth:1, assignedCluster:2}
+, {tweetId:146, tweet:victim arson lost father siblings wants cards christmas deliver, groundTruth:1, assignedCluster:2}
+, {tweetId:148, tweet:hii moonlight christmas coming christmas follow please love x303, groundTruth:1, assignedCluster:2}
+, {tweetId:149, tweet:081215 david gandy attends british gq christmas launch london, groundTruth:1, assignedCluster:2}
+, {tweetId:150, tweet:please fast christmas break, groundTruth:1, assignedCluster:2}
+, {tweetId:152, tweet:delicious senior christmas lunch tues 15th dec 124pm 5 pp pls book advance, groundTruth:1, assignedCluster:2}
+, {tweetId:153, tweet:steamy calendar vet students animals christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:154, tweet:funny dogs water tree humorous christmas card, groundTruth:1, assignedCluster:2}
+, {tweetId:157, tweet:latest metal heart christmas decoration dead smart, groundTruth:1, assignedCluster:2}
+, {tweetId:160, tweet:christmas tree room house, groundTruth:1, assignedCluster:2}
+, {tweetId:161, tweet:christmas list killer eyebrows boyfriend edible selfie skills, groundTruth:1, assignedCluster:2}
+, {tweetId:162, tweet:christmas burger hope santa likes #naughtylist #christmasfood #shoreditch, groundTruth:1, assignedCluster:2}
+, {tweetId:163, tweet:christmas shopping survival guide, groundTruth:1, assignedCluster:2}
+, {tweetId:164, tweet:christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:165, tweet:17 days christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:166, tweet:seth macfarlane home christmas #nowplaying #listenlive, groundTruth:1, assignedCluster:2}
+, {tweetId:167, tweet:love christmas shopping bought loads, groundTruth:1, assignedCluster:2}
+, {tweetId:169, tweet:looking christmas trap remixes find weeks upcoming holiday, groundTruth:1, assignedCluster:2}
+, {tweetId:170, tweet:spoil friends family christmas 5 dollars, groundTruth:1, assignedCluster:2}
+, {tweetId:172, tweet:christmas cocktail photo, groundTruth:1, assignedCluster:2}
+, {tweetId:173, tweet:give christmas name, groundTruth:1, assignedCluster:2}
+, {tweetId:174, tweet:christmas follow camz, groundTruth:1, assignedCluster:2}
+, {tweetId:176, tweet:hear nearly christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:177, tweet:lmao giving christmas ideas, groundTruth:1, assignedCluster:2}
+, {tweetId:178, tweet:sing christmas carols feature friday today cracked pressure ended saying turtles, groundTruth:1, assignedCluster:2}
+, {tweetId:179, tweet:burning bundle christmas garland, groundTruth:1, assignedCluster:2}
+, {tweetId:180, tweet:heavenly christmas kindly asks nominations 16 days #mgtab, groundTruth:1, assignedCluster:2}
+, {tweetId:182, tweet:university warns make sure holiday party christmas party disguise, groundTruth:1, assignedCluster:2}
+, {tweetId:184, tweet:wife skills expert level #hesaluckyman #totallyworthit, groundTruth:1, assignedCluster:2}
+, {tweetId:185, tweet:nyc christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:186, tweet:win signed copy latest christmas album plus guitar christmas tree, groundTruth:1, assignedCluster:2}
+, {tweetId:187, tweet:lm wore christmas party ft #pbloggers, groundTruth:1, assignedCluster:2}
+, {tweetId:188, tweet:know married kid christmas list toys, groundTruth:1, assignedCluster:2}
+, {tweetId:189, tweet:looking speaking christmas banquet chinese baptist pastors houston tonight o come ad, groundTruth:1, assignedCluster:2}
+, {tweetId:190, tweet:appointment playing grinch christmas song nice, groundTruth:1, assignedCluster:2}
+, {tweetId:191, tweet:ordered rest stuff christmas know going love, groundTruth:1, assignedCluster:2}
+, {tweetId:192, tweet:steamy calendar vet students animals christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:194, tweet:merry christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:195, tweet:body christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:196, tweet:getting stitchy hand making folks embroidery christmas #embroidery #typographic #crafty, groundTruth:1, assignedCluster:2}
+, {tweetId:197, tweet:christmas hampers 1250 #christmashamper, groundTruth:1, assignedCluster:2}
+, {tweetId:198, tweet:christmas comes mariah carey yes justin bieber sings nevermind song sucks, groundTruth:1, assignedCluster:2}
+, {tweetId:199, tweet:miss christmas mornings wake 6am watch hoobs woke, groundTruth:1, assignedCluster:2}
+, {tweetId:200, tweet:nyc christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:201, tweet:christmas cards released 30 minutes 499 30, groundTruth:1, assignedCluster:2}
+, {tweetId:202, tweet:brylanehome 7 christmas tree giveaway, groundTruth:1, assignedCluster:2}
+, {tweetId:203, tweet:christmas loves santa realistic, groundTruth:1, assignedCluster:2}
+, {tweetId:204, tweet:lynch stole christmas #lorettalynch says prosecute #freespeech #islamistheproblem, groundTruth:1, assignedCluster:2}
+, {tweetId:205, tweet:lighted #holiday #star ornament christmas tree light topper #home decor night glass, groundTruth:1, assignedCluster:2}
+, {tweetId:206, tweet:25 easy fun christmas crafts kids #crafts #christmas #kids, groundTruth:1, assignedCluster:2}
+, {tweetId:207, tweet:girls gone wild christmas edition, groundTruth:1, assignedCluster:2}
+, {tweetId:208, tweet:christmas playlist blogmas 8, groundTruth:1, assignedCluster:2}
+, {tweetId:209, tweet:puts selfie top christmas tree bc star, groundTruth:1, assignedCluster:2}
+, {tweetId:210, tweet:merry christmas got literal shirt wearing, groundTruth:1, assignedCluster:2}
+, {tweetId:212, tweet:christmas ideas hint hint, groundTruth:1, assignedCluster:2}
+, {tweetId:213, tweet:month christmas practice sorry late update recent personal, groundTruth:1, assignedCluster:2}
+, {tweetId:215, tweet:hear say keep christ christmas tempted mention started hijacked pagan holiday, groundTruth:1, assignedCluster:2}
+, {tweetId:216, tweet:kotaku contest beginning look lot christmas winners, groundTruth:1, assignedCluster:2}
+, {tweetId:218, tweet:witch christmas name #firstpoll, groundTruth:1, assignedCluster:2}
+, {tweetId:220, tweet:stolen kiss yuletide wedding wants christmas #regencyholiday, groundTruth:1, assignedCluster:2}
+, {tweetId:221, tweet:christmas time music purchasing, groundTruth:1, assignedCluster:2}
+, {tweetId:222, tweet:nyc christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:223, tweet:ready christmas #2015, groundTruth:1, assignedCluster:2}
+, {tweetId:224, tweet:thank, groundTruth:1, assignedCluster:2}
+, {tweetId:225, tweet:remember kids dog isn christmas birthday, groundTruth:1, assignedCluster:2}
+, {tweetId:226, tweet:hii moonlight christmas coming christmas follow please love x304, groundTruth:1, assignedCluster:2}
+, {tweetId:229, tweet:lmfaooo threw biggest strop 2015 christmas tree wouldn stand forgot put feet, groundTruth:1, assignedCluster:2}
+, {tweetId:230, tweet:best grotto town open fab christmas charity fair sat 12th dec pls #sutcolhour, groundTruth:1, assignedCluster:2}
+, {tweetId:231, tweet:lovely christmas meal tasty going early night think lovely evening, groundTruth:1, assignedCluster:2}
+, {tweetId:232, tweet:#liveinstall speakers going getting ready christmas handover, groundTruth:1, assignedCluster:2}
+, {tweetId:234, tweet:sure wish nyc christmas decorations lights beautiful time miss nyc #christmas #nyc, groundTruth:1, assignedCluster:2}
+, {tweetId:235, tweet:christmas themed, groundTruth:1, assignedCluster:2}
+, {tweetId:236, tweet:christmas ideas hint hint, groundTruth:1, assignedCluster:2}
+, {tweetId:237, tweet:12 days cookies christmas crack lindsay weiss posted life home resisted christma #baby, groundTruth:1, assignedCluster:2}
+, {tweetId:238, tweet:christmas tree monday night life church 727, groundTruth:1, assignedCluster:2}
+, {tweetId:239, tweet:parcel going corner abroad christmas make sure time, groundTruth:1, assignedCluster:2}
+, {tweetId:240, tweet:jesus birth story grows old loses power women christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:243, tweet:lets got accepted christmas clash, groundTruth:1, assignedCluster:2}
+, {tweetId:244, tweet:elf shelf girl doll blue eyes christmas tradition doll book gift set bid o, groundTruth:1, assignedCluster:2}
+, {tweetId:245, tweet:christmas soon hope enjoy wishes come true mine follow please harry love you116849, groundTruth:1, assignedCluster:2}
+, {tweetId:247, tweet:buy online christmas #jumper #santa charles wilson #stockyrt, groundTruth:1, assignedCluster:2}
+, {tweetId:248, tweet:hiii 17 days christmas mind following make special please 27049, groundTruth:1, assignedCluster:2}
+, {tweetId:250, tweet:elf xi shelf came visit finals study session night christmas break, groundTruth:1, assignedCluster:2}
+, {tweetId:254, tweet:love decorating christmas cookies, groundTruth:1, assignedCluster:2}
+, {tweetId:255, tweet:moment felt christmas spirit gone moment, groundTruth:1, assignedCluster:2}
+, {tweetId:257, tweet:christmas tip spear rent darkness penetrated prison locks pierced hearts beginning, groundTruth:1, assignedCluster:2}
+, {tweetId:258, tweet:apparently making bunch side money hanging people christmas lights love lazy people, groundTruth:1, assignedCluster:2}
+, {tweetId:259, tweet:christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:261, tweet:special offer christmas 1500 30 welcome bonus join promocode 888xmas, groundTruth:1, assignedCluster:2}
+, {tweetId:262, tweet:christmas stopped world war, groundTruth:1, assignedCluster:2}
+, {tweetId:263, tweet:great christmas declaration, groundTruth:1, assignedCluster:2}
+, {tweetId:264, tweet:deli taking orders christmas cheeses hams take hassle christmas shopping #feelingfestive, groundTruth:1, assignedCluster:2}
+, {tweetId:265, tweet:8 creative countdown blog today festive robins lovely adding christmas cards, groundTruth:1, assignedCluster:2}
+, {tweetId:266, tweet:24 hours ill back home christmas break yessss, groundTruth:1, assignedCluster:2}
+, {tweetId:267, tweet:12 days christmas gassy f###wanderingweightlifter #christmasgains #rowers, groundTruth:1, assignedCluster:2}
+, {tweetId:268, tweet:man utd fans decorate christmas tree, groundTruth:1, assignedCluster:2}
+, {tweetId:269, tweet:#np jingle bells comes santa claus santa claus coming town lagu natal lea christmas song, groundTruth:1, assignedCluster:2}
+, {tweetId:271, tweet:learned christmas songs night lol, groundTruth:1, assignedCluster:2}
+, {tweetId:272, tweet:beautiful tree, groundTruth:1, assignedCluster:2}
+, {tweetId:273, tweet:christmas calendar giveaway, groundTruth:1, assignedCluster:2}
+, {tweetId:274, tweet:blgr 12 days cookies christmas crack #moms, groundTruth:1, assignedCluster:2}
+, {tweetId:275, tweet:christmas loves santa realistic, groundTruth:1, assignedCluster:2}
+, {tweetId:276, tweet:lunch momloland shop christmas presents #raisingcanes #lunchdate, groundTruth:1, assignedCluster:2}
+, {tweetId:277, tweet:8th christmas win bottle 2001 single vintage #rt enter #giftsonthehouse, groundTruth:1, assignedCluster:2}
+, {tweetId:279, tweet:indian designer bollywood saree sari christmas special banarsi ethnic cultural bid, groundTruth:1, assignedCluster:2}
+, {tweetId:281, tweet:christmas mood point, groundTruth:1, assignedCluster:2}
+, {tweetId:282, tweet:#proudlygospel war christmas microsofts new ad omits god click details, groundTruth:1, assignedCluster:2}
+, {tweetId:283, tweet:managed cook full christmas dinner student halls guys incredible, groundTruth:1, assignedCluster:2}
+, {tweetId:284, tweet:looking drummimg dancing 315 4pm sunday, groundTruth:1, assignedCluster:2}
+, {tweetId:285, tweet:second outbid avon tick tock christmas clock musical animated cuckoo clock santa clua please f, groundTruth:1, assignedCluster:2}
+, {tweetId:286, tweet:great singing christmas tunes travellers airport, groundTruth:1, assignedCluster:2}
+, {tweetId:289, tweet:dyk christmas trees home grown north american soil jobs rural areas buying #freshcuthomegrown supp, groundTruth:1, assignedCluster:2}
+, {tweetId:290, tweet:story christmas, groundTruth:1, assignedCluster:2}
+, {tweetId:291, tweet:a3 friends drinking towns celebrating christmas #cruisechat, groundTruth:1, assignedCluster:2}
+, {tweetId:292, tweet:thank obe merry christmas yesterday evening prima scala theatre, groundTruth:1, assignedCluster:2}
+, {tweetId:293, tweet:celebrate christmas say merry christmasbut don judge people don don judge freedom religion, groundTruth:1, assignedCluster:2}
+, {tweetId:294, tweet:kid seriously wrote christmas wish list earth needs captain america, groundTruth:1, assignedCluster:2}
+, {tweetId:295, tweet:order parent christmas gift, groundTruth:1, assignedCluster:2}
+, {tweetId:296, tweet:looks adamconkling35 ready christmas don forget christmas party, groundTruth:1, assignedCluster:2}
+, {tweetId:297, tweet:start adorable holiday tradition take cue iceland give book, groundTruth:1, assignedCluster:2}
+, {tweetId:298, tweet:important update 1 monday school christmas break, groundTruth:1, assignedCluster:2}
+, {tweetId:299, tweet:elf shelf girl doll blue eyes christmas tradition doll book gift set bid o, groundTruth:1, assignedCluster:2}
+, {tweetId:300, tweet:tmr praise red wings resurgent roll cbs sports peters focuses #redwings, groundTruth:2, assignedCluster:2}
+, {tweetId:302, tweet:guys tweet actually sports related, groundTruth:2, assignedCluster:2}
+, {tweetId:303, tweet:wants directed tell twitter directed lol, groundTruth:2, assignedCluster:2}
+, {tweetId:304, tweet:know bitch moan things comes sports stand constantly complains, groundTruth:2, assignedCluster:2}
+, {tweetId:307, tweet:garage guy picking sports car know know mark car right ggpumls, groundTruth:2, assignedCluster:2}
+, {tweetId:308, tweet:sports armband extender iphone 55s5c 44s ipod touch 5th generation includes key hol, groundTruth:2, assignedCluster:2}
+, {tweetId:309, tweet:cover franchise sports, groundTruth:2, assignedCluster:2}
+, {tweetId:312, tweet:score sri lanka army sports club v badureliya sports club, groundTruth:2, assignedCluster:2}
+, {tweetId:313, tweet:score sri lanka army sports club v badureliya sports club, groundTruth:2, assignedCluster:2}
+, {tweetId:314, tweet:score galle cricket club v sinhalese sports club, groundTruth:2, assignedCluster:2}
+, {tweetId:315, tweet:score chilaw marians cricket club v moors sports club, groundTruth:2, assignedCluster:2}
+, {tweetId:316, tweet:shop 88 free shipping new weide watches men military quartz sports watch luxury brand, groundTruth:2, assignedCluster:2}
+, {tweetId:317, tweet:obama muslims sports heroes sport talking, groundTruth:2, assignedCluster:2}
+, {tweetId:318, tweet:saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:319, tweet:don don stop saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:320, tweet:new story time sports womens soccer team refuses play turf, groundTruth:2, assignedCluster:2}
+, {tweetId:321, tweet:katy cibolo steele brace rematch, groundTruth:2, assignedCluster:2}
+, {tweetId:325, tweet:tyson fury shouldn thrown sports personality award shortlist hoping wins, groundTruth:2, assignedCluster:2}
+, {tweetId:327, tweet:saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:328, tweet:paying premium nonsuperstars team budget #1 cardinal sin professional sports franchises, groundTruth:2, assignedCluster:2}
+, {tweetId:329, tweet:fun 100 saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:331, tweet:share tested proven sports betting system accurate predictions worke, groundTruth:2, assignedCluster:2}
+, {tweetId:334, tweet:god damn lucky, groundTruth:2, assignedCluster:2}
+, {tweetId:336, tweet:mally richardson former hull daily mail sports journalist funeral friday 11th chants avenue crematorium large chap, groundTruth:2, assignedCluster:2}
+, {tweetId:337, tweet:give hands, groundTruth:2, assignedCluster:2}
+, {tweetId:338, tweet:comments #uswnt lastminute cancellation ussf pres sunil gulati apologizes black eye, groundTruth:2, assignedCluster:2}
+, {tweetId:340, tweet:1 god 2 family 3 sports god bigger plan, groundTruth:2, assignedCluster:2}
+, {tweetId:341, tweet:exercise alcohol health connection #miami #fortlauderdale #plasticsurgery 3059325557, groundTruth:2, assignedCluster:2}
+, {tweetId:342, tweet:right show live js sports bar bro, groundTruth:2, assignedCluster:2}
+, {tweetId:343, tweet:sunday dec 13th sky games steelers cowboys patriots start 530pm sky sports 2, groundTruth:2, assignedCluster:2}
+, {tweetId:344, tweet:donald #trump 962 people #donaldtrump #success #business #money #bet #be, groundTruth:2, assignedCluster:2}
+, {tweetId:345, tweet:saturday repping #epicconcert tema sports stadium hosted madtime kwawkese repping h, groundTruth:2, assignedCluster:2}
+, {tweetId:348, tweet:sra launch utilities service thousands pounds sports clubs, groundTruth:2, assignedCluster:2}
+, {tweetId:349, tweet:sra launch utilities service thousands pounds sports clubs, groundTruth:2, assignedCluster:2}
+, {tweetId:350, tweet:sra launch utilities service thousands pounds sports clubs, groundTruth:2, assignedCluster:2}
+, {tweetId:358, tweet:saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:359, tweet:sports array got observe professionalism drag sports cdbi, groundTruth:2, assignedCluster:2}
+, {tweetId:360, tweet:come join fun centurylink field seattle exciting sports entertainment venue centurylink, groundTruth:2, assignedCluster:2}
+, {tweetId:361, tweet:brandon saad fourthliner right #cbj yikes, groundTruth:2, assignedCluster:2}
+, {tweetId:362, tweet:new story changing sides #wku face decorated figures taggart, groundTruth:2, assignedCluster:2}
+, {tweetId:363, tweet:new sounds averagejoefantasy sports radio show 1 #soundcloud, groundTruth:2, assignedCluster:2}
+, {tweetId:365, tweet:saturday repping #epicconcert tema sports stadium hosted stonebwoy repping, groundTruth:2, assignedCluster:2}
+, {tweetId:367, tweet:somalia rarely told agriculturereal estatebeaches sports, groundTruth:2, assignedCluster:2}
+, {tweetId:369, tweet:netflix ad free hulu hbo showtime thing cbs sports music stuff, groundTruth:2, assignedCluster:2}
+, {tweetId:370, tweet:led screens reciprocating engine sports dziojgsx, groundTruth:2, assignedCluster:2}
+, {tweetId:371, tweet:son choice play sports badass, groundTruth:2, assignedCluster:2}
+, {tweetId:372, tweet:latest search resumes jay cutler brotherinlaw yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:374, tweet:saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:375, tweet:ou sports #sooners oc lincoln riley named college football top assistant coach story, groundTruth:2, assignedCluster:2}
+, {tweetId:377, tweet:donald #trump 962 people #donaldtrump #success #business #money #bet #be, groundTruth:2, assignedCluster:2}
+, {tweetId:379, tweet:#epicconcert tema sports stadium 12dec 7pm gh10 casual gh20 vip bam, groundTruth:2, assignedCluster:2}
+, {tweetId:381, tweet:100k sign campaign revoke furys bbc sports personality nomination, groundTruth:2, assignedCluster:2}
+, {tweetId:384, tweet:check man sports report team #panthernation, groundTruth:2, assignedCluster:2}
+, {tweetId:385, tweet:sports update coach meet drafteligible underclassmen, groundTruth:2, assignedCluster:2}
+, {tweetId:388, tweet:kinect sports season two xbox 360 factory sealed 799 ebay, groundTruth:2, assignedCluster:2}
+, {tweetId:389, tweet:jig jig makes breakfast jig checks morning sports scores sees fantasy football team lost t, groundTruth:2, assignedCluster:2}
+, {tweetId:390, tweet:enjoy debates discussions pertains anythingesp combat sports, groundTruth:2, assignedCluster:2}
+, {tweetId:391, tweet:sports radio guy 1 sports radio guy 2 mmm #profound, groundTruth:2, assignedCluster:2}
+, {tweetId:392, tweet:kiss theme jerseys trade show courtesy ot sports coming soon stadium near, groundTruth:2, assignedCluster:2}
+, {tweetId:393, tweet:man dbacks hispanic sports marketing initiative nativa #multicultural #mktg blog #hhm #yesphx, groundTruth:2, assignedCluster:2}
+, {tweetId:394, tweet:tickets ready got mine #epicconcert date 121215 time 7pm sharp venue tema sports stadium, groundTruth:2, assignedCluster:2}
+, {tweetId:395, tweet:free community sports 16 4 6pm #wythenshawe, groundTruth:2, assignedCluster:2}
+, {tweetId:396, tweet:take ur dad sports shop tries shoes, groundTruth:2, assignedCluster:2}
+, {tweetId:397, tweet:tickets ready got mine #epicconcert date 121215 time 7pm sharp venue tema sports stadium, groundTruth:2, assignedCluster:2}
+, {tweetId:399, tweet:shop 80 free shipping men wristwatches fashion casual quartz watch dress sports watch, groundTruth:2, assignedCluster:2}
+, {tweetId:400, tweet:local sports news executive committee running craven league, groundTruth:2, assignedCluster:2}
+, {tweetId:403, tweet:#epicconcert date 121215 time 7pm sharp venue tema sports stadium, groundTruth:2, assignedCluster:2}
+, {tweetId:404, tweet:intelligent weekly phillycentric general sports podcast haven done, groundTruth:2, assignedCluster:2}
+, {tweetId:405, tweet:princess haya bint al hussein announced local sports personality #dubai #uae, groundTruth:2, assignedCluster:2}
+, {tweetId:406, tweet:100k sign campaign revoke furys bbc sports personality nomination 101000 sign, groundTruth:2, assignedCluster:2}
+, {tweetId:411, tweet:saturday repping #epicconcert tema sports stadium hosted, groundTruth:2, assignedCluster:2}
+, {tweetId:412, tweet:boys athlete finalists kyle porter, groundTruth:2, assignedCluster:2}
+, {tweetId:413, tweet:expanding raleighbased halfmarathon series biggest event coming durham, groundTruth:2, assignedCluster:2}
+, {tweetId:414, tweet:sports course open regardless sex, groundTruth:2, assignedCluster:2}
+, {tweetId:415, tweet:2015 new men quartz hour date clock men casual sports watches men leather wrist military w, groundTruth:2, assignedCluster:2}
+, {tweetId:416, tweet:bama commit calvin ridley #catch #footballhighlights #football #sportsvines #hdsports vine 5star sports, groundTruth:2, assignedCluster:2}
+, {tweetId:417, tweet:think tyson fury removed sports personality plus support xx sign th, groundTruth:2, assignedCluster:2}
+, {tweetId:421, tweet:calipari live, groundTruth:2, assignedCluster:2}
+, {tweetId:422, tweet:sports marketing changing 5 ways sports #marketing change forever, groundTruth:2, assignedCluster:2}
+, {tweetId:423, tweet:welome boston beware overly aggressive competitive sports fans drive 80 mph blizzards, groundTruth:2, assignedCluster:2}
+, {tweetId:425, tweet:great time sports scholars lunch #quiz #crackers, groundTruth:2, assignedCluster:2}
+, {tweetId:429, tweet:donald #trump 962 people #donaldtrump #success #business #money #bet #be, groundTruth:2, assignedCluster:2}
+, {tweetId:430, tweet:put sky sports 2 please admire incredible specimen human, groundTruth:2, assignedCluster:2}
+, {tweetId:431, tweet:connect sports stars share friends say bet free 10 inplay bet, groundTruth:2, assignedCluster:2}
+, {tweetId:432, tweet:103pm source tells ken rosenthal fox sports twitter link theres way zobrist received offer, groundTruth:2, assignedCluster:2}
+, {tweetId:433, tweet:sixers trading rookie kj mcdaniels longest losing streak sports history cluelessness, groundTruth:2, assignedCluster:2}
+, {tweetId:434, tweet:take sports final gotta keep class wish luck, groundTruth:2, assignedCluster:2}
+, {tweetId:435, tweet:completely sold nude sports bra enjoy pieces nude collection, groundTruth:2, assignedCluster:2}
+, {tweetId:436, tweet:sports december 8 ready enjoy, groundTruth:2, assignedCluster:2}
+, {tweetId:437, tweet:princess haya bint al hussein announced local sports personality #dubai #uae, groundTruth:2, assignedCluster:2}
+, {tweetId:438, tweet:1 #epicconcert venue tema sports stadium time 7pm sharp advance ticket 10 cedis casual 20cedis vip, groundTruth:2, assignedCluster:2}
+, {tweetId:440, tweet:wants directed tell twitter directed lol, groundTruth:2, assignedCluster:2}
+, {tweetId:441, tweet:sports continue rule tv nielsen 8outof10 2015s top 10 telecasts sportsrelated telecasts, groundTruth:2, assignedCluster:2}
+, {tweetId:444, tweet:laughing harry reaction niall mentions sports interview haha #mtvstars direction, groundTruth:2, assignedCluster:2}
+, {tweetId:445, tweet:casio male wva320j1e doughty planetarian waveceptor sports babysit zbpkw, groundTruth:2, assignedCluster:2}
+, {tweetId:446, tweet:rarely watch sc watch games espn sports news twitter, groundTruth:2, assignedCluster:2}
+, {tweetId:447, tweet:kcr college radio best source music sports news entertainment sdsu cup o, groundTruth:2, assignedCluster:2}
+, {tweetId:448, tweet:#ferrari #ff hit open road give full voice v12, groundTruth:2, assignedCluster:2}
+, {tweetId:449, tweet:coaches nation confidence hc story #gamecocks, groundTruth:2, assignedCluster:2}
+, {tweetId:451, tweet:new story time sports womens soccer team refuses play turf, groundTruth:2, assignedCluster:2}
+, {tweetId:452, tweet:former assistant josh martin news boys soccer coach roberson #asheville #hssoccer #nchsa, groundTruth:2, assignedCluster:2}
+, {tweetId:453, tweet:haterist moment sports history, groundTruth:2, assignedCluster:2}
+, {tweetId:454, tweet:brandon saad fourthliner right #cbj yikes, groundTruth:2, assignedCluster:2}
+, {tweetId:455, tweet:sports given best memories friendships forever, groundTruth:2, assignedCluster:2}
+, {tweetId:456, tweet:don makes hockey players attractive guys plays sports, groundTruth:2, assignedCluster:2}
+, {tweetId:457, tweet:2 #epicconcert venue tema sports stadium time 7pm sharp advance ticket 10 cedis casual 20cedis vip, groundTruth:2, assignedCluster:2}
+, {tweetId:458, tweet:dredged scouting combine research series, groundTruth:2, assignedCluster:2}
+, {tweetId:459, tweet:seahawk sports marketing recognizes 201516 corporate partner, groundTruth:2, assignedCluster:2}
+, {tweetId:460, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:461, tweet:epic sports fails, groundTruth:2, assignedCluster:2}
+, {tweetId:463, tweet:bbc remove homophobic tyson fury sports personality shortlist sign th, groundTruth:2, assignedCluster:2}
+, {tweetId:464, tweet:1 #epicconcert venue tema sports stadium time 7pm sharp advance ticket 10 cedis casual 20cedis vip, groundTruth:2, assignedCluster:2}
+, {tweetId:466, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:467, tweet:site called sports nation hd, groundTruth:2, assignedCluster:2}
+, {tweetId:472, tweet:shop 80 free shipping men wristwatches fashion casual quartz watch dress sports watch, groundTruth:2, assignedCluster:2}
+, {tweetId:473, tweet:today mhs sports girls basketball home monona grove boys basketball elkhorn boys swimming badger south re, groundTruth:2, assignedCluster:2}
+, {tweetId:474, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:475, tweet:brandon saad fourthliner right #cbj yikes, groundTruth:2, assignedCluster:2}
+, {tweetId:476, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:477, tweet:finally interhouse sports thank god, groundTruth:2, assignedCluster:2}
+, {tweetId:478, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:479, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:480, tweet:spot favorite artiste part fun saturday tema sports stadium #epicconcert #epicconcert, groundTruth:2, assignedCluster:2}
+, {tweetId:481, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:482, tweet:boxing champ tyson fury reported crime police yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:483, tweet:#epicconcert date 121215 time 7pm sharp venue tema sports stadium, groundTruth:2, assignedCluster:2}
+, {tweetId:485, tweet:son choice play sports badass, groundTruth:2, assignedCluster:2}
+, {tweetId:489, tweet:latest search resumes jay cutler brotherinlaw yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:490, tweet:police domestic case involving pitcher chapman closed yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:494, tweet:sports people, groundTruth:2, assignedCluster:2}
+, {tweetId:495, tweet:sports given best memories friendships forever, groundTruth:2, assignedCluster:2}
+, {tweetId:496, tweet:look sports packaged country music nfl hiphop nba, groundTruth:2, assignedCluster:2}
+, {tweetId:497, tweet:brantford sports teams, groundTruth:2, assignedCluster:2}
+, {tweetId:498, tweet:popular sports china, groundTruth:2, assignedCluster:2}
+, {tweetId:500, tweet:#epicconcert venue tema sports stadium date12th dec time 7pm sharp advance ticket 10 cedis casual 20cedis vip, groundTruth:2, assignedCluster:2}
+, {tweetId:501, tweet:pelicans join rockets team interested trading suns markieff morris yahoo sports, groundTruth:2, assignedCluster:2}
+, {tweetId:502, tweet:donald #trump 962 people #donaldtrump #success #business #money #bet #be, groundTruth:2, assignedCluster:2}
+, {tweetId:503, tweet:local sportspeople celebrated annual teignbridge sports awards #crediton, groundTruth:2, assignedCluster:2}
+, {tweetId:504, tweet:big happen #epicconcert date 121215 time 7pm sharp venue tema sports stadium, groundTruth:2, assignedCluster:2}
+, {tweetId:506, tweet:local sportspeople celebrated annual teignbridge sports awards #exeter, groundTruth:2, assignedCluster:2}
+, {tweetId:507, tweet:game telecasted ten sports india 3 mins remaining #halamadrid, groundTruth:2, assignedCluster:2}
+, {tweetId:508, tweet:local sportspeople celebrated annual teignbridge sports awards #newtonabbot, groundTruth:2, assignedCluster:2}
+, {tweetId:510, tweet:local sportspeople celebrated annual teignbridge sports awards #dawlish, groundTruth:2, assignedCluster:2}
+, {tweetId:511, tweet:females play sports, groundTruth:2, assignedCluster:2}
+, {tweetId:512, tweet:#epicconcert weekend tema sports stadium, groundTruth:2, assignedCluster:2}
+, {tweetId:513, tweet:esports learn traditional sports play unique strengths nice piece #esports, groundTruth:2, assignedCluster:2}
+, {tweetId:514, tweet:sure sports team support, groundTruth:2, assignedCluster:2}
+, {tweetId:516, tweet:five mustsee basketball games, groundTruth:2, assignedCluster:2}
+, {tweetId:517, tweet:sports times turf women dig heels, groundTruth:2, assignedCluster:2}
+, {tweetId:519, tweet:sports times turf women dig heels, groundTruth:2, assignedCluster:2}
+, {tweetId:520, tweet:granted majority women sports don support endorsements order paid, groundTruth:2, assignedCluster:2}
+, {tweetId:521, tweet:starts wednesday night #cometswrestling, groundTruth:2, assignedCluster:2}
+, {tweetId:523, tweet:#msu sports teams aren ones taking country way rock, groundTruth:2, assignedCluster:2}
+, {tweetId:524, tweet:sports times turf women dig, groundTruth:2, assignedCluster:2}
+, {tweetId:525, tweet:#epicconcert venue tema sports stadium time 7pm sharp ticket 10 cedis casual 20cedis vip, groundTruth:2, assignedCluster:2}
+, {tweetId:527, tweet:muslims rids mahammads edicts qorans rad words kill infidels r terrorist, groundTruth:3, assignedCluster:2}
+, {tweetId:533, tweet:please, groundTruth:3, assignedCluster:2}
+, {tweetId:541, tweet:call yung pug, groundTruth:3, assignedCluster:2}
+, {tweetId:551, tweet:better album holiday music haven run, groundTruth:3, assignedCluster:2}
+, {tweetId:552, tweet:lincoln paper tissue mill hands new owners tomorrow details sale 56pm, groundTruth:3, assignedCluster:2}
+, {tweetId:558, tweet:merry christmas family mine canada, groundTruth:3, assignedCluster:2}
+, {tweetId:561, tweet:peace gift christmas blessing christmas carol radio #joy, groundTruth:3, assignedCluster:2}
+, {tweetId:565, tweet:mhhhhmmm baby girlben marty flood, groundTruth:3, assignedCluster:2}
+, {tweetId:594, tweet:trap music makes miss mally nigga nigga, groundTruth:3, assignedCluster:2}
+, {tweetId:614, tweet:#video bring sacrifice praise #umc #god #christ #love #grace #hope #prayer #spirit #advent #messiah #peace, groundTruth:3, assignedCluster:2}
+, {tweetId:615, tweet:people smart, groundTruth:3, assignedCluster:2}
+, {tweetId:617, tweet:aughhh lmao, groundTruth:3, assignedCluster:2}
+, {tweetId:621, tweet:stubborn say sorry, groundTruth:3, assignedCluster:2}
+, {tweetId:623, tweet:#david cameronbuhari terroristdictatorchild rapist # free nnamdi kanu biafran leader # stop killing innocent biafrans, groundTruth:3, assignedCluster:2}
+, {tweetId:625, tweet:oh come, groundTruth:3, assignedCluster:2}
+, {tweetId:627, tweet:congratulations succeeding campaign good luck vegas champ, groundTruth:3, assignedCluster:2}
+, {tweetId:634, tweet:third hanukkah beautiful cards great gifts looking, groundTruth:3, assignedCluster:2}
+, {tweetId:638, tweet:karma bitch right, groundTruth:3, assignedCluster:2}
+, {tweetId:668, tweet:cue, groundTruth:3, assignedCluster:2}
+, {tweetId:674, tweet:dakari hate relationships christmas music terrorist, groundTruth:3, assignedCluster:2}
+, {tweetId:675, tweet:#david cameronbuhari terroristdictatorchild rapist # free nnamdi kanu biafran leader # stop killing innocent biafrans, groundTruth:3, assignedCluster:2}
+, {tweetId:677, tweet:shrimp scampi dinner screening raising shrimp 1217, groundTruth:3, assignedCluster:2}
+, {tweetId:682, tweet:peace gift christmas blessing christmas carol radio #peace, groundTruth:3, assignedCluster:2}
+, {tweetId:706, tweet:crossy road giving promo #emogoose #crossyroad #amazingphil, groundTruth:3, assignedCluster:2}
+, {tweetId:708, tweet:true #trumpisdisqualifiedparty, groundTruth:3, assignedCluster:2}
+, {tweetId:716, tweet:peace gift christmas blessing christmas carol radio, groundTruth:3, assignedCluster:2}
+, {tweetId:719, tweet:happy birthday kablanch, groundTruth:3, assignedCluster:2}
+, {tweetId:728, tweet:touched #boston working man love job working new, groundTruth:3, assignedCluster:2}
+, {tweetId:748, tweet:sweetest boyfriend, groundTruth:3, assignedCluster:2}
+, {tweetId:762, tweet:#david cameronbuhari terroristdictatorchild rapist#free nnamdi kanu biafran leader#stop killing innocent biafrans, groundTruth:3, assignedCluster:2}
+, {tweetId:777, tweet:peace gift christmas blessing christmas carol radio, groundTruth:3, assignedCluster:2}
+, {tweetId:783, tweet:christmas stance socks new deluxe prhyme lpand new car house health wisdom power respect, groundTruth:3, assignedCluster:2}
+]
+
+Cluster : 3
+Total tweets in this cluster : 261
+
+[{tweetId:3, tweet:weaves going 23k buy ladies fellas surprise christmas gift please, groundTruth:1, assignedCluster:3}
+, {tweetId:10, tweet:eighth christmas aquabeads gave gift party #12daysofaquabeads #win, groundTruth:1, assignedCluster:3}
+, {tweetId:19, tweet:wanna spoil gotta buy christmas presents, groundTruth:1, assignedCluster:3}
+, {tweetId:23, tweet:chatting tired going home home christmas, groundTruth:1, assignedCluster:3}
+, {tweetId:26, tweet:design ideas tips curiosities computerarts 20 great christmas gift ideas graphic designers, groundTruth:1, assignedCluster:3}
+, {tweetId:33, tweet:peace gift christmas blessing christmas carol radio, groundTruth:1, assignedCluster:3}
+, {tweetId:36, tweet:2nd #christmas #win skin elegance gift set follow enter #win #comp #12daysofchristmas htt, groundTruth:1, assignedCluster:3}
+, {tweetId:43, tweet:stylish chic perfect christmas follow #win knit tcs apply #nladvent htt, groundTruth:1, assignedCluster:3}
+, {tweetId:48, tweet:8th #christmas mw gave men fleece follow #win, groundTruth:1, assignedCluster:3}
+, {tweetId:50, tweet:#win eighth christmas ultimo gave tag friend follow chance win, groundTruth:1, assignedCluster:3}
+, {tweetId:64, tweet:happy tuesday welcome #christmasgiveaway follow chance #win christmas pudding cookies, groundTruth:1, assignedCluster:3}
+, {tweetId:69, tweet:great sampling going head office today opening #kilkenny christmas, groundTruth:1, assignedCluster:3}
+, {tweetId:74, tweet:great choices sound maple cookbook, groundTruth:1, assignedCluster:3}
+, {tweetId:87, tweet:follow early christmas present best gift life love x31285, groundTruth:1, assignedCluster:3}
+, {tweetId:89, tweet:12 days christmas back retweet chance dunkin donuts gift card #12daysofchristmasgiveaway, groundTruth:1, assignedCluster:3}
+, {tweetId:99, tweet:8th christmas bff gave follow enter win #12daysoftweetmas, groundTruth:1, assignedCluster:3}
+, {tweetId:147, tweet:#competition follow chance win christmas star hamper ends 201215 #giveaway #win #christmas, groundTruth:1, assignedCluster:3}
+, {tweetId:155, tweet:hey niall 17 days christmas best present world follow love 994, groundTruth:1, assignedCluster:3}
+, {tweetId:156, tweet:8th #christmas mw gave men fleece follow #win, groundTruth:1, assignedCluster:3}
+, {tweetId:158, tweet:17 days c, groundTruth:1, assignedCluster:3}
+, {tweetId:159, tweet:jtfo supa fr tho best gift bihh, groundTruth:1, assignedCluster:3}
+, {tweetId:168, tweet:excellent christmas gift ideas chance win 500 gift card #christmasgifts #christmasgiveaway, groundTruth:1, assignedCluster:3}
+, {tweetId:211, tweet:17 days unt, groundTruth:1, assignedCluster:3}
+, {tweetId:217, tweet:tweetingcharlee branchedolive follow win 8th #christmas branche d gave, groundTruth:1, assignedCluster:3}
+, {tweetId:219, tweet:follow chance win 150 #tidywall voucher #christmas eve #competition, groundTruth:1, assignedCluster:3}
+, {tweetId:233, tweet:share secret trick great #christmas roastpie giving away usd 200 gift card best tip, groundTruth:1, assignedCluster:3}
+, {tweetId:253, tweet:hey niall 17 days christmas best present world follow love 995, groundTruth:1, assignedCluster:3}
+, {tweetId:278, tweet:krendice follow win, groundTruth:1, assignedCluster:3}
+, {tweetId:287, tweet:supergokuboi neonmoonco win chic neon moon limited edition christmas collection set follow win, groundTruth:1, assignedCluster:3}
+, {tweetId:326, tweet:gotta, groundTruth:2, assignedCluster:3}
+, {tweetId:332, tweet:smith named 1st team allamericans usa today fuller earns 2nd team aa honors, groundTruth:2, assignedCluster:3}
+, {tweetId:333, tweet:v tough giving control sports days g5 ss visioned, groundTruth:2, assignedCluster:3}
+, {tweetId:364, tweet:congrats alexis middlebrooks christina toth chuck voss earning avca allregion honors, groundTruth:2, assignedCluster:3}
+, {tweetId:373, tweet:congrats two outstanding players, groundTruth:2, assignedCluster:3}
+, {tweetId:376, tweet:muschamp diamond rough south carolina recruiting coaching defense back dominance, groundTruth:2, assignedCluster:3}
+, {tweetId:382, tweet:looks puig going home mlbmlbpa trip cuba, groundTruth:2, assignedCluster:3}
+, {tweetId:398, tweet:run bounds retweet follow win hot new rawls tee #12s, groundTruth:2, assignedCluster:3}
+, {tweetId:402, tweet:video amazed skill love watson hackathon session, groundTruth:2, assignedCluster:3}
+, {tweetId:408, tweet:love, groundTruth:2, assignedCluster:3}
+, {tweetId:418, tweet:japanese esports team detonation fired league legends players allegedly leak, groundTruth:2, assignedCluster:3}
+, {tweetId:419, tweet:arkansas tight end hunter henry named team allamerican, groundTruth:2, assignedCluster:3}
+, {tweetId:424, tweet:bum ass trip sue child support grounds ya rich ass slave master ass grandfather oooo lost wit ya name, groundTruth:2, assignedCluster:3}
+, {tweetId:428, tweet:#eagles dealing running back controversy demarco murray happy, groundTruth:2, assignedCluster:3}
+, {tweetId:442, tweet:congrats #oaklandsd trio earning weekly honors h, groundTruth:2, assignedCluster:3}
+, {tweetId:469, tweet:turn outs two different sites thought, groundTruth:2, assignedCluster:3}
+, {tweetId:486, tweet:god thought happen known 5, groundTruth:2, assignedCluster:3}
+, {tweetId:488, tweet:#browns make official manziel reinstated team starting qb, groundTruth:2, assignedCluster:3}
+, {tweetId:492, tweet:teams v follow game live, groundTruth:2, assignedCluster:3}
+, {tweetId:499, tweet:run bounds retweet follow win hot new rawls tee #12s, groundTruth:2, assignedCluster:3}
+, {tweetId:518, tweet:inspires keep going submit photo #keepgoodgoing posted site, groundTruth:2, assignedCluster:3}
+, {tweetId:522, tweet:kudos janet leung earning invite jan camp htt, groundTruth:2, assignedCluster:3}
+, {tweetId:526, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:529, tweet:russia crushes 600 terrorist targets 3 days defense ministry, groundTruth:3, assignedCluster:3}
+, {tweetId:530, tweet:attempted beheading subway suspect london tube stabbing terrorist attack charged, groundTruth:3, assignedCluster:3}
+, {tweetId:531, tweet:civil discourse needed address terrorist threat tom purcell, groundTruth:3, assignedCluster:3}
+, {tweetId:532, tweet:confirmed terrorist attacker london england uk working uber terroristwho driving, groundTruth:3, assignedCluster:3}
+, {tweetId:534, tweet:cnn attempted beheading subway suspect london tube stabbing terrorist attack charged, groundTruth:3, assignedCluster:3}
+, {tweetId:535, tweet:comes designated terrorist group cairs chief spokesjihadist foaming mouth trumps, groundTruth:3, assignedCluster:3}
+, {tweetId:537, tweet:waiting sonia play failsafe minority victim card accuse modi terrorist rss hounding becaus, groundTruth:3, assignedCluster:3}
+, {tweetId:538, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:539, tweet:aholes san bernardino terrorists #terrorist #terrorism #terror #ahole #aholes, groundTruth:3, assignedCluster:3}
+, {tweetId:540, tweet:fox spews hate speech terrorist organization planet, groundTruth:3, assignedCluster:3}
+, {tweetId:542, tweet:guess got added fbi terrorist watch list, groundTruth:3, assignedCluster:3}
+, {tweetId:543, tweet:fbi, groundTruth:3, assignedCluster:3}
+, {tweetId:544, tweet:terrorist attacks committed selfidentified white christians resulted politicians calling ban al, groundTruth:3, assignedCluster:3}
+, {tweetId:545, tweet:great ish turn people offhow 2 flexcarmel smart dark innovative fertile aware selfr flagsor somthingo notbroke js, groundTruth:3, assignedCluster:3}
+, {tweetId:546, tweet:implement american #terrorist act, groundTruth:3, assignedCluster:3}
+, {tweetId:547, tweet:picture explains terrorist groups #isis #bokoharam #alshabab #bokoharam #taliban #alnusra, groundTruth:3, assignedCluster:3}
+, {tweetId:548, tweet:trump stop white terrorist help, groundTruth:3, assignedCluster:3}
+, {tweetId:549, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:550, tweet:dog worrying sheep shot law states cat domestic animal harmed ultimate terrorist wild birds, groundTruth:3, assignedCluster:3}
+, {tweetId:553, tweet:knife attack #london caught video london, groundTruth:3, assignedCluster:3}
+, {tweetId:554, tweet:cartoon spot terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:556, tweet:#paris #moscow #rome #madrid #eu #italy iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:559, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:562, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:563, tweet:attempted beheading subway suspect london tube stabbing terrorist attack charged, groundTruth:3, assignedCluster:3}
+, {tweetId:564, tweet:terrorist muslims better fucking start, groundTruth:3, assignedCluster:3}
+, {tweetId:567, tweet:terrorist shooting radicalize americans trump 10000 bombs radica, groundTruth:3, assignedCluster:3}
+, {tweetId:568, tweet:wrong side history funding terrorist part legacy liar divided country, groundTruth:3, assignedCluster:3}
+, {tweetId:569, tweet:#paraguay #peru #suriname #france #russia iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:570, tweet:#wales #bristol #england #british #london iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:573, tweet:proves liberals care laws bill rights constitution white male ur eyes terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:574, tweet:game choices terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:576, tweet:make list terrorist attacks christians athiests sure list way longer, groundTruth:3, assignedCluster:3}
+, {tweetId:577, tweet:thought gonna class turn paper professor wants actual class, groundTruth:3, assignedCluster:3}
+, {tweetId:578, tweet:muslim islamic traitor terrorist gulity treason murder genocide deserving public execution, groundTruth:3, assignedCluster:3}
+, {tweetId:579, tweet:words form #terrorist freedoms end freedoms chance #obama t, groundTruth:3, assignedCluster:3}
+, {tweetId:580, tweet:love turnt text funnynostalgic shit, groundTruth:3, assignedCluster:3}
+, {tweetId:581, tweet:san bernardino terrorists lawyer stop saying muslim shooters intolerant, groundTruth:3, assignedCluster:3}
+, {tweetId:582, tweet:#asmajahangirkhorasani devil heart asma representing terrorist taliban groups, groundTruth:3, assignedCluster:3}
+, {tweetId:583, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:584, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:585, tweet:stopped terrorist attack gun thought impossible america hero 3, groundTruth:3, assignedCluster:3}
+, {tweetId:586, tweet:list things scare airplane turbulence terrorist threats able locate kids, groundTruth:3, assignedCluster:3}
+, {tweetId:587, tweet:terrorist attacks committed selfidentified white christians resulted politicians calling ban al, groundTruth:3, assignedCluster:3}
+, {tweetId:588, tweet:terrorist attacks committed selfidentified white christians resulted politicians calling ban al, groundTruth:3, assignedCluster:3}
+, {tweetId:589, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:590, tweet:people ducking retarded jews committing terrorist attacks lmfao wanted deport legals illegals, groundTruth:3, assignedCluster:3}
+, {tweetId:591, tweet:eagles death metal gives tribute victims paris terrorist attacks, groundTruth:3, assignedCluster:3}
+, {tweetId:592, tweet:#wales #bristol #england #british #london iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:593, tweet:ridiculous youre terrorist watch listyou buy gun interfering amendment ht, groundTruth:3, assignedCluster:3}
+, {tweetId:595, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:596, tweet:#wales #bristol #england #british #london iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:597, tweet:russia crushes 600 terrorist targets 3 days defense ministry, groundTruth:3, assignedCluster:3}
+, {tweetId:598, tweet:progressives saying #lennon killed terrorist seriously, groundTruth:3, assignedCluster:3}
+, {tweetId:599, tweet:#wales #bristol #england #british #london iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:600, tweet:farook mother list lived ied factory terrorists maintained, groundTruth:3, assignedCluster:3}
+, {tweetId:602, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:603, tweet:#alamo #usa #america #poland #portugal iran carried 38 terrorist operation world 36 yea, groundTruth:3, assignedCluster:3}
+, {tweetId:605, tweet:gotta piss work getting couch, groundTruth:3, assignedCluster:3}
+, {tweetId:606, tweet:london metro stabbing treated terrorist act #humanrights #woman #bbc, groundTruth:3, assignedCluster:3}
+, {tweetId:607, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:608, tweet:victim terrorist attack wonder facebook post mine lead determine, groundTruth:3, assignedCluster:3}
+, {tweetId:609, tweet:getting 1738 tattoo #commitment, groundTruth:3, assignedCluster:3}
+, {tweetId:610, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:611, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:612, tweet:interested #purchasing #job near #southboston ma great fit #hiring, groundTruth:3, assignedCluster:3}
+, {tweetId:613, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:616, tweet:walked donald trump going lol, groundTruth:3, assignedCluster:3}
+, {tweetId:618, tweet:shouldn investigated aiding abiding terrorist organization playing hands, groundTruth:3, assignedCluster:3}
+, {tweetId:619, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:620, tweet:muslim doesn equal terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:622, tweet:private johnson dynasty casey considered tabloid terrorist dad cut ties trus, groundTruth:3, assignedCluster:3}
+, {tweetId:624, tweet:police investigate claim rotherham teacher called muslim schoolboy terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:626, tweet:#wales #bristol #england #british #london iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:628, tweet:za1d sad time terrorist attack muslims world explain #muslimsarenotterr, groundTruth:3, assignedCluster:3}
+, {tweetId:629, tweet:question liberalswhat perfect america look muslim terrorist run amok illegal alien voters voters, groundTruth:3, assignedCluster:3}
+, {tweetId:630, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:631, tweet:civil discourse needed address terrorist threat, groundTruth:3, assignedCluster:3}
+, {tweetId:632, tweet:give billions terrorist state allow terrorism flourish open borders disarm citizenry yeah make safe, groundTruth:3, assignedCluster:3}
+, {tweetId:633, tweet:eagles death metal gives tribute victims paris terrorist attacks, groundTruth:3, assignedCluster:3}
+, {tweetId:635, tweet:part lord resistance army uganda christian terrorist group, groundTruth:3, assignedCluster:3}
+, {tweetId:636, tweet:better prevent terrorist attacks address easy access weapons spoton editorial, groundTruth:3, assignedCluster:3}
+, {tweetId:637, tweet:better bro curly hair kinda cute, groundTruth:3, assignedCluster:3}
+, {tweetId:639, tweet:#rgp attempted beheading subway suspect london tube stabbing terrorist attack charged, groundTruth:3, assignedCluster:3}
+, {tweetId:640, tweet:terrorist shooting radicalize americans trump 10000 bombs radica, groundTruth:3, assignedCluster:3}
+, {tweetId:641, tweet:russia crushes 600 terrorist targets 3 days defense ministry, groundTruth:3, assignedCluster:3}
+, {tweetId:642, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:643, tweet:terror victim mother furious terrorist release, groundTruth:3, assignedCluster:3}
+, {tweetId:645, tweet:fox news 28500 deposit san bernardino terroristsaccount, groundTruth:3, assignedCluster:3}
+, {tweetId:647, tweet:#obama lying 700000 people fly list half zero terrorist affiliation ted, groundTruth:3, assignedCluster:3}
+, {tweetId:648, tweet:amount terrorist attacks people 2015 attacks non, groundTruth:3, assignedCluster:3}
+, {tweetId:649, tweet:fact put terrorist watch lists fly lists shit post online, groundTruth:3, assignedCluster:3}
+, {tweetId:650, tweet:fox news 28500 deposit san bernardino terroristsaccount, groundTruth:3, assignedCluster:3}
+, {tweetId:651, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:652, tweet:#belgium #antwerp #ghent #charleroi #lige iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:653, tweet:steps congress take right help defeat terrorist threat isil keep americans safe, groundTruth:3, assignedCluster:3}
+, {tweetId:654, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:655, tweet:look terrorist sympathisers, groundTruth:3, assignedCluster:3}
+, {tweetId:656, tweet:#texas #oklahoma #vermont iran carried 38 terrorist operation world 36 years, groundTruth:3, assignedCluster:3}
+, {tweetId:657, tweet:forgot terrorist word muslim, groundTruth:3, assignedCluster:3}
+, {tweetId:658, tweet:clearly terrorist mentally unwell individual wrong police declare terrorist act, groundTruth:3, assignedCluster:3}
+, {tweetId:659, tweet:guess got added fbi terrorist watch list, groundTruth:3, assignedCluster:3}
+, {tweetId:660, tweet:fbi, groundTruth:3, assignedCluster:3}
+, {tweetId:661, tweet:think donald trump watches movies mexican mafia black thief arab terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:662, tweet:terrorist muslim victimising innocent people alienating society p, groundTruth:3, assignedCluster:3}
+, {tweetId:663, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:664, tweet:global islamic terrorist attacks bc 2015 list doesn paris mali 1000, groundTruth:3, assignedCluster:3}
+, {tweetId:665, tweet:years drug gangs run drugs people think terror cells wreal aren, groundTruth:3, assignedCluster:3}
+, {tweetId:666, tweet:trying protect terrorist infiltration lynching better safe sorry cair, groundTruth:3, assignedCluster:3}
+, {tweetId:667, tweet:better person #valspar, groundTruth:3, assignedCluster:3}
+, {tweetId:669, tweet:proponent #libya agreement announced saturday night lifg terrorist abdelwahab qaid elder bro forme, groundTruth:3, assignedCluster:3}
+, {tweetId:670, tweet:knew grabbing arm lead ha, groundTruth:3, assignedCluster:3}
+, {tweetId:672, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:673, tweet:biggest terrorist threat usa surely father adolf proud, groundTruth:3, assignedCluster:3}
+, {tweetId:676, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:678, tweet:severed pig head left n phila mosque law enforcement treating terrorist attack, groundTruth:3, assignedCluster:3}
+, {tweetId:679, tweet:obama stupidest american american obama finally calls fort hood terrorist attack, groundTruth:3, assignedCluster:3}
+, {tweetId:680, tweet:swedish pm terrorist pr says palestinian knife attacks defined terror, groundTruth:3, assignedCluster:3}
+, {tweetId:681, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:683, tweet:shock list muslim terror attacks america obama covered islamic terroristthe recent, groundTruth:3, assignedCluster:3}
+, {tweetId:684, tweet:russia gifts france new puppy replace police dog killed terrorist raid, groundTruth:3, assignedCluster:3}
+, {tweetId:685, tweet:terrorist shooting radicalize americans trump 10000 bombs radica, groundTruth:3, assignedCluster:3}
+, {tweetId:686, tweet:fbi, groundTruth:3, assignedCluster:3}
+, {tweetId:687, tweet:interested #nursing #job near #exeter nh great fit #hiring #careerarc, groundTruth:3, assignedCluster:3}
+, {tweetId:688, tweet:consider defining terrorist know dems devil details, groundTruth:3, assignedCluster:3}
+, {tweetId:689, tweet:thought click bait actually, groundTruth:3, assignedCluster:3}
+, {tweetId:690, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:691, tweet:#sanbernardino #terrorist attack mourners diverse victims, groundTruth:3, assignedCluster:3}
+, {tweetId:693, tweet:father terrorist son, groundTruth:3, assignedCluster:3}
+, {tweetId:694, tweet:#belgium #mons #mechelen #aalst #hasselt iran carried 38 terrorist operation world 36 y, groundTruth:3, assignedCluster:3}
+, {tweetId:695, tweet:think mean april 7, groundTruth:3, assignedCluster:3}
+, {tweetId:696, tweet:#belgium #bruges #anderlecht #namur #leuven iran carried 38 terrorist operation world 3, groundTruth:3, assignedCluster:3}
+, {tweetId:697, tweet:soyou say nelson mandela idol excuse didn call terrorist fucking hypocrite, groundTruth:3, assignedCluster:3}
+, {tweetId:698, tweet:family knew terrorist syed farook supported isis hated israel told patient, groundTruth:3, assignedCluster:3}
+, {tweetId:699, tweet:remember hadn terrorist attack soil obama office lol, groundTruth:3, assignedCluster:3}
+, {tweetId:700, tweet:ppl peter r preparing terrorist attack 1 wasnt refugee don scrutinize refug, groundTruth:3, assignedCluster:3}
+, {tweetId:701, tweet:lying laws bad law hahahaha fuckers, groundTruth:3, assignedCluster:3}
+, {tweetId:703, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:704, tweet:generalising somals wen wna talk terrorist activities muslims fanatics extremists #somalistandup, groundTruth:3, assignedCluster:3}
+, {tweetId:707, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:709, tweet:operation continue terrorist cm, groundTruth:3, assignedCluster:3}
+, {tweetId:710, tweet:terrorist hanged publicly legal privilege prosecution kill bastards, groundTruth:3, assignedCluster:3}
+, {tweetId:711, tweet:confirmed terrorist attacker london england uk working uber terroristwho driving, groundTruth:3, assignedCluster:3}
+, {tweetId:712, tweet:pics destruction west aleppo terrorist rebel shelling killed 14 people yesterday #syria, groundTruth:3, assignedCluster:3}
+, {tweetId:714, tweet:muslim terrorists dad admits liberal media dreading father degenerate, groundTruth:3, assignedCluster:3}
+, {tweetId:715, tweet:hug terrorist gang exposed, groundTruth:3, assignedCluster:3}
+, {tweetId:717, tweet:london metro stabbing treated terrorist act #humanrights #woman #bbc, groundTruth:3, assignedCluster:3}
+, {tweetId:718, tweet:london police treating tube station knife attack incident, groundTruth:3, assignedCluster:3}
+, {tweetId:720, tweet:bringing terrorist responsibility government protect terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:721, tweet:kelly ayotte trying mislead #nhsen voters vote leave open terrorist gun loophole, groundTruth:3, assignedCluster:3}
+, {tweetId:722, tweet:got better idea deny white mailes right bare arms commit terroist acts, groundTruth:3, assignedCluster:3}
+, {tweetId:723, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:725, tweet:time islamic terrorist deniers protect people sworn, groundTruth:3, assignedCluster:3}
+, {tweetId:726, tweet:hi isis back servants ajjal america calm terrorist win afraid evil win give isis pussys, groundTruth:3, assignedCluster:3}
+, {tweetId:727, tweet:vetting refugees 101 hot dog eating contest win youre usa lose try refuse particip, groundTruth:3, assignedCluster:3}
+, {tweetId:729, tweet:happen multiple terrorist attacks happen obama leaves marshallaw don trust sob wh, groundTruth:3, assignedCluster:3}
+, {tweetId:730, tweet:obama admin criticize bibi israel resettlements aid terrorist ousting sovereign regime syria #hypocrites, groundTruth:3, assignedCluster:3}
+, {tweetId:731, tweet:moderate muslim dad san bernardino terrorist soon jews dead, groundTruth:3, assignedCluster:3}
+, {tweetId:732, tweet:russian warplanes hit 1458 terrorist targets syria past #russiavsisil, groundTruth:3, assignedCluster:3}
+, {tweetId:733, tweet:cartoon spot terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:734, tweet:single human potential terrorist blatant racism obviously incurable shitty, groundTruth:3, assignedCluster:3}
+, {tweetId:735, tweet:el chapo sends threatening message terrorist group isis men destroy, groundTruth:3, assignedCluster:3}
+, {tweetId:737, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:738, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:739, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:740, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:741, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:742, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:743, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:744, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:745, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:746, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:747, tweet:basics islamist terrorist ideology, groundTruth:3, assignedCluster:3}
+, {tweetId:749, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:750, tweet:hear explain social media sites shouldnt policing speech #freespeech, groundTruth:3, assignedCluster:3}
+, {tweetId:751, tweet:100 years usnato war crimes muslims der business y d west call muslims terrorists, groundTruth:3, assignedCluster:3}
+, {tweetId:752, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:753, tweet:support ban foreign muslims stop terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:754, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:755, tweet:cruz desantis pair terrorist refugee infiltration prevention act, groundTruth:3, assignedCluster:3}
+, {tweetId:756, tweet:interested #businessmgmt #job near #boston ma great fit #hiring #careerarc, groundTruth:3, assignedCluster:3}
+, {tweetId:757, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:758, tweet:remember full court press make sure considered terrorist attack obama watch, groundTruth:3, assignedCluster:3}
+, {tweetId:759, tweet:#arrestmeloretta obamas trojan horse islamic terrorist democrats ruining ame, groundTruth:3, assignedCluster:3}
+, {tweetId:760, tweet:saddened schools cancelling trips london terrorist attacks paris, groundTruth:3, assignedCluster:3}
+, {tweetId:763, tweet:isis terrorist attack time london east london subway station leytons, groundTruth:3, assignedCluster:3}
+, {tweetId:764, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:765, tweet:breaking #russia crushes 600 #terrorist targets 3 days #russiavsisil #daesh, groundTruth:3, assignedCluster:3}
+, {tweetId:766, tweet:think donald trump watches movies mexican mafia black thief arab terrorist, groundTruth:3, assignedCluster:3}
+, {tweetId:767, tweet:#belgium #jette #beveren #etterbeek iran carried 38 terrorist operation world 36 years, groundTruth:3, assignedCluster:3}
+, {tweetId:768, tweet:mans calling terrorist doesn know wash bum oi beg ur family watch tutorials pls, groundTruth:3, assignedCluster:3}
+, {tweetId:769, tweet:borders present terrorist pipelines, groundTruth:3, assignedCluster:3}
+, {tweetId:770, tweet:lol uk handle riots 2013 terrorist attack kmt, groundTruth:3, assignedCluster:3}
+, {tweetId:771, tweet:terrorist invading snapchat wtf, groundTruth:3, assignedCluster:3}
+, {tweetId:772, tweet:la times editorial defends due process admonishes democrats ban, groundTruth:3, assignedCluster:3}
+, {tweetId:773, tweet:uber driver terrorist london wants thenwell got, groundTruth:3, assignedCluster:3}
+, {tweetId:774, tweet:discuss uae terrorist organization listafter bribing dems delisted, groundTruth:3, assignedCluster:3}
+, {tweetId:778, tweet:fuck daesh koncerned white terrorist groups killed murikans islamik radikals, groundTruth:3, assignedCluster:3}
+, {tweetId:780, tweet:#rebootliberty real failures san bernardino terrorist attack #orpuw #pjnet, groundTruth:3, assignedCluster:3}
+, {tweetId:781, tweet:tommy farted laughed lucky cute, groundTruth:3, assignedCluster:3}
+, {tweetId:782, tweet:muslim terrorist wear hijab choice oppressed religion peace, groundTruth:3, assignedCluster:3}
+, {tweetId:784, tweet:watch letter terrorist #no2isis #notinmyname #winnipeg #cdnpoli, groundTruth:3, assignedCluster:3}
+, {tweetId:785, tweet:father put jail 19 months indira gandhi emergency pick gun, groundTruth:3, assignedCluster:3}
+, {tweetId:786, tweet:#belgium #dendermonde #beringen #turnhout iran carried 38 terrorist operation world 36, groundTruth:3, assignedCluster:3}
+, {tweetId:787, tweet:don surprised family female #terrorist #sanbernadino sues damages regarding pictures uncovered face, groundTruth:3, assignedCluster:3}
+, {tweetId:789, tweet:breaking #russia crushes 600 #terrorist targets 3 days, groundTruth:3, assignedCluster:3}
+, {tweetId:790, tweet:probably best interest die virgin terrorist waiting, groundTruth:3, assignedCluster:3}
+, {tweetId:791, tweet:photos terrorist attacked radisson blu hotel mali, groundTruth:3, assignedCluster:3}
+, {tweetId:792, tweet:muslims terroristshould ban white men movie theaters schools bc shoot, groundTruth:3, assignedCluster:3}
+]
+
+==============================================================================================================================
