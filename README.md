@@ -8,42 +8,42 @@ Twitter represents a rich social media where people share their thoughts and int
 About the Folder Structure
 **************************************************************************************************************
 
-TwitterTrendTopics - Eclipse folder with the code
-	src/IPLSA/
-		PlsaRunner.java - Runs IPLSA on the data provided. Input: Folder and total number of files(should be greater than 5)
-		TestDriver.java - Runs Plsa for test data
-		CreateGraph.java - Class to create line and bar charts for the results
-		TopicValue.java - Class to hold the count for each topic/cluster
-		Tweet.java - Data structure for a tweet
-		Utility.java - provided some functions like readFile, calculatePurity, calculateNMI etc
-	src/Kmeans/
-		KMeansRunner.java - Entry point for KMeans Algorithm. Input: K, isStaticRunner boolean flag, isLiveStreamRunner boolean flag (see more details below)
-		KMeans.java - Class implementing the entire Modified K-Means alogrithm 
-		Cluster.java - Class for representing the cluster of tweets
-		Point.java - Class for representing each tweets as a point
-		LiveTweetsCleaner.java - Cleaner Class for unprocessed raw tweets
-		DistanceHelper.java - Class for computing similarity measure: Jaccards, Cosine and MinHash
-		EvaluationMeasures.java - Class for implementing Purity and NMI
-		IOUtility.java - Handles all the input output operations for the entire run of the algorithm
-		MinHash.java - Implements entire MinHash Similarity measure
-	src/Preprocess/
-		LoadRawJSON.java - Loads the collected tweets and process and cleans the text
-	src/Collection/
-		SimpleStream.java - Streams the public tweets from Twitter in boston area. Provide a file to redirect output of console
-	emoji-java-2.2.0.jar
-	json-20140107.jar
-	twitter4j-core-4.0.4.jar
-	twitter4j-stream-4.0.4.jar
-	weka.jar
-	jcommon-1.0.23.jar
-	jfreechart-1.0.19.jar
-	EachHour - Unprocessed raw tweets for 58 hours
-	EachHourProcessed - Cleaned tweets for 58 hours
-	IPLSAData - Data for IPLSA Run
-	KmeansData - Data for Kmeans run
-	OutputsandResults - Output for both algorithm runs
-	TestTweets - Tweets for Evaluation purpose
-README
+TwitterTrendTopics - Eclipse folder with the code  
+	src/IPLSA/  
+		PlsaRunner.java - Runs IPLSA on the data provided. Input: Folder and total number of files(should be greater than 5)  
+		TestDriver.java - Runs Plsa for test data  
+		CreateGraph.java - Class to create line and bar charts for the results  
+		TopicValue.java - Class to hold the count for each topic/cluster  
+		Tweet.java - Data structure for a tweet  
+		Utility.java - provided some functions like readFile, calculatePurity, calculateNMI etc 
+	src/Kmeans/  
+		KMeansRunner.java - Entry point for KMeans Algorithm. Input: K, isStaticRunner boolean flag, isLiveStreamRunner boolean flag (see more details below)  
+		KMeans.java - Class implementing the entire Modified K-Means alogrithm   
+		Cluster.java - Class for representing the cluster of tweets  
+		Point.java - Class for representing each tweets as a point  
+		LiveTweetsCleaner.java - Cleaner Class for unprocessed raw tweets  
+		DistanceHelper.java - Class for computing similarity measure: Jaccards, Cosine and MinHash  
+		EvaluationMeasures.java - Class for implementing Purity and NMI  
+		IOUtility.java - Handles all the input output operations for the entire run of the algorithm  
+		MinHash.java - Implements entire MinHash Similarity measure  
+	src/Preprocess/  
+		LoadRawJSON.java - Loads the collected tweets and process and cleans the text  
+	src/Collection/  
+		SimpleStream.java - Streams the public tweets from Twitter in boston area. Provide a file to redirect output of console  
+	emoji-java-2.2.0.jar  
+	json-20140107.jar  
+	twitter4j-core-4.0.4.jar  
+	twitter4j-stream-4.0.4.jar  
+	weka.jar  
+	jcommon-1.0.23.jar  
+	jfreechart-1.0.19.jar  
+	EachHour - Unprocessed raw tweets for 58 hours  
+	EachHourProcessed - Cleaned tweets for 58 hours   
+	IPLSAData - Data for IPLSA Run  
+	KmeansData - Data for Kmeans run  
+	OutputsandResults - Output for both algorithm runs  
+	TestTweets - Tweets for Evaluation purpose  
+README  
 
 OUTPUT
 **************************************************************************************************************
