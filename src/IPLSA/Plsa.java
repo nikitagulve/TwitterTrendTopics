@@ -505,7 +505,7 @@ public class Plsa {
 	}
 
 	/**
-	 * Gets Numbers of Documents for each Topic based on Max theta value
+	 * Gets Number of Documents for each Topic based on Max theta value
 	 * 
 	 * @param theta
 	 * @return

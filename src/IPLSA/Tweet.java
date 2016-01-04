@@ -3,8 +3,8 @@ package IPLSA;
 import java.util.List;
 /**
  * 
- * represent a document
- * 
+ * Represents a Tweet
+ * @author niki
  *
  */
 public class Tweet {

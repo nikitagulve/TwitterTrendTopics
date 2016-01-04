@@ -60,6 +60,7 @@ public class KMeans {
 		if(!isStaticRunner)
 			run(new ArrayList<Point>());
 		else {
+			@SuppressWarnings("unused")
 			int totalPoints = 0;
 			List<Point> points = new ArrayList<>();
 	        String line;
